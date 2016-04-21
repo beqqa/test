@@ -1,6 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <stdlib.h>
+//holllllllllllaaaaaaaaaaa
 void init(void)
 {
 	//ubicacion de la luz
